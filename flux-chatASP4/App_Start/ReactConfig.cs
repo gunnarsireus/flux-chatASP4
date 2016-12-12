@@ -1,8 +1,8 @@
 using React;
 
-[assembly: WebActivatorEx.PreApplicationStartMethod(typeof(flux_chatASP4.ReactConfig), "Configure")]
+[assembly: WebActivatorEx.PreApplicationStartMethod(typeof(Flux_chatVS2015.ReactConfig), "Configure")]
 
-namespace flux_chatASP4
+namespace Flux_chatVS2015
 {
 	public static class ReactConfig
 	{
