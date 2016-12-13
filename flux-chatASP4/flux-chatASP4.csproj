@@ -205,6 +205,8 @@
     <Content Include="flux-chat\js\stores\ThreadStore.js" />
     <Content Include="flux-chat\js\stores\UnreadThreadStore.js" />
     <Content Include="flux-chat\js\stores\__tests__\UnreadThreadStore-test.js" />
+    <Content Include="flux-chat\js\utils\ChatMessageUtils.js" />
+    <Content Include="flux-chat\js\utils\ChatWebAPIUtils.js" />
     <Content Include="Global.asax" />
     <Content Include="readme.txt" />
     <Content Include="scripts\r.js" />
