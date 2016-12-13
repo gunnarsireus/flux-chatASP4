@@ -4,7 +4,7 @@ using System.Linq;
 using System.Web;
 using System.Web.Mvc;
 
-namespace Flux_chatVS2015.Controllers
+namespace flux_chatASP4.Controllers
 {
     public class HomeController : Controller
     {

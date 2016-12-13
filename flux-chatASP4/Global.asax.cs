@@ -5,9 +5,9 @@ using System.Web;
 using System.Web.Mvc;
 using System.Web.Optimization;
 using System.Web.Routing;
-using ReactDemo;
+using flux_chatASP4;
 
-namespace Flux_chatVS2015
+namespace flux_chatASP4
 {
     public class MvcApplication : System.Web.HttpApplication
     {

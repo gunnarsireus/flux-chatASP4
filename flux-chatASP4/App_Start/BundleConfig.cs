@@ -1,7 +1,7 @@
 ﻿using System.Web.Optimization;
 using System.Web.Optimization.React;
 
-namespace ReactDemo
+namespace flux_chatASP4
 {
     public class BundleConfig
     {

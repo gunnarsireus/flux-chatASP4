@@ -5,7 +5,7 @@ using System.Web;
 using System.Web.Mvc;
 using System.Web.Routing;
 
-namespace Flux_chatVS2015
+namespace flux_chatASP4
 {
     public class RouteConfig
     {

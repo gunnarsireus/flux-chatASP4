@@ -184,28 +184,6 @@
     </Reference>
   </ItemGroup>
   <ItemGroup>
-    <Content Include="flux-chat\.gitignore" />
-    <Content Include="flux-chat\css\chatapp.css" />
-    <Content Include="flux-chat\index.html" />
-    <Content Include="flux-chat\js\actions\ChatMessageActionCreators.js" />
-    <Content Include="flux-chat\js\actions\ChatServerActionCreators.js" />
-    <Content Include="flux-chat\js\actions\ChatThreadActionCreators.js" />
-    <Content Include="flux-chat\js\app.js" />
-    <Content Include="flux-chat\js\bundle.js" />
-    <Content Include="flux-chat\js\ChatExampleData.js" />
-    <Content Include="flux-chat\js\components\ChatApp.react.js" />
-    <Content Include="flux-chat\js\components\MessageComposer.react.js" />
-    <Content Include="flux-chat\js\components\MessageListItem.react.js" />
-    <Content Include="flux-chat\js\components\MessageSection.react.js" />
-    <Content Include="flux-chat\js\components\ThreadListItem.react.js" />
-    <Content Include="flux-chat\js\components\ThreadSection.react.js" />
-    <Content Include="flux-chat\js\constants\ChatConstants.js" />
-    <Content Include="flux-chat\js\dispatcher\ChatAppDispatcher.js" />
-    <Content Include="flux-chat\js\stores\MessageStore.js" />
-    <Content Include="flux-chat\js\stores\ThreadStore.js" />
-    <Content Include="flux-chat\js\stores\UnreadThreadStore.js" />
-    <Content Include="flux-chat\js\stores\__tests__\UnreadThreadStore-test.js" />
-    <Content Include="flux-chat\js\utils\ChatWebAPIUtils.js" />
     <Content Include="Global.asax" />
     <Content Include="readme.txt" />
     <Content Include="scripts\r.js" />
@@ -227,15 +205,6 @@
     <Content Include="packages.config" />
     <Content Include="Service References\Application Insights\ConnectedService.json" />
     <Content Include="Views\Home\Index.cshtml" />
-    <Content Include="flux-chat\package.json" />
-    <Content Include="flux-chat\README.md" />
-    <Content Include="flux-chat\js\app.jsx" />
-    <Content Include="flux-chat\js\components\ChatApp.jsx" />
-    <Content Include="flux-chat\js\components\MessageComposer.jsx" />
-    <Content Include="flux-chat\js\components\MessageListItem.jsx" />
-    <Content Include="flux-chat\js\components\MessageSection.jsx" />
-    <Content Include="flux-chat\js\components\ThreadListItem.jsx" />
-    <Content Include="flux-chat\js\components\ThreadSection.jsx" />
     <None Include="Web.Debug.config">
       <DependentUpon>Web.config</DependentUpon>
     </None>
